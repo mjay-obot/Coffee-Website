@@ -8,7 +8,7 @@ header p, span, footer a {
     font-family: 'Kaushan Script', cursive;
 }
 .wrapper {
-    width: 80.5%;
+    width: 100%;
     box-shadow: 10px 10px 20px 10px rgba(0, 0, 0, 0.25);
     margin: 0 auto;
 }
