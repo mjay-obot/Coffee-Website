@@ -76,6 +76,9 @@ nav a:hover {
     .floatright {
         margin-left: 1rem;
     }
+    .purchase {
+        flex-direction: column;
+    }
 }
 header {
    padding-left: 5rem;
