@@ -79,6 +79,9 @@ nav a:hover {
     .purchase {
         flex-direction: column;
     }
+    .row1 {
+        padding-left: 0;
+    }
 }
 header {
    padding-left: 5rem;
@@ -187,18 +190,19 @@ button:hover {
     color: rgb(114, 48, 48);
     margin-bottom: 0;
 }
-.purchase {
-    display: flex;
-    justify-content: center;
-}
 #purchase {
     background-color: rgb(24, 9, 9);
     margin-top: -2rem;
     padding-bottom: 1.5rem;
 }
-.row1 {
-    padding-left: 5rem;
+.purchase {
+    display: flex;
+    justify-content: space-between;
 }
+.row1 {
+    padding-left: 10rem;
+}
+
 h3 {
     font-size: 1.5rem;
     font-weight: bold;
